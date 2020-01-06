@@ -26,5 +26,3 @@ def basic_stats(person_list):
     median_age = median(age)
     mode_age = mode(age)
     return mean_age, median_age, mode_age
-
-
